@@ -1,6 +1,6 @@
 {
   "name": "com.thomasbousquet.packageb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "Package B",
   "description": "Package B for Test has a dependency on A",
   "unity": "2019.2",
@@ -13,7 +13,7 @@
     "name": "TB"
   },
   "gitDependencies": {
-    "com.sixparquatre.projectsettingsandpreferencescreator": "https://github.com/ThomasBousquet/PackageA.git"
+    "com.thomasbousquet.packagea": "https://github.com/ThomasBousquet/PackageA.git"
   },
   "hideInEditor": false,
   "type": "library"
