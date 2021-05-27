@@ -1,0 +1,19 @@
+{
+  "name": "com.thomasbousquet.packageb",
+  "version": "0.0.1",
+  "displayName": "Package B",
+  "description": "Package B for Test has a dependency on A",
+  "unity": "2019.2",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "TB"
+  },
+  "gitDependencies": {
+    "com.sixparquatre.projectsettingsandpreferencescreator": "https://github.com/ThomasBousquet/PackageA.git"
+  },
+  "hideInEditor": false
+}
