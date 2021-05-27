@@ -15,5 +15,6 @@
   "gitDependencies": {
     "com.sixparquatre.projectsettingsandpreferencescreator": "https://github.com/ThomasBousquet/PackageA.git"
   },
-  "hideInEditor": false
+  "hideInEditor": false,
+  "type": "library"
 }
